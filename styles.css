@@ -660,15 +660,7 @@ nav.primary li.has-menu.menu-right .submenu {
   font-weight: 500;
 }
 
-/* Embed card (Spotify player) — integrates the embed with the callout style */
-.embed-card {
-  background: var(--accent-soft);
-  border-left: 3px solid var(--accent);
-  border-radius: 2px;
-  padding: 1rem;
-}
 
-.embed-card iframe { display: block; }
 
 /* Teaching Cards (Teaching) -------------------------------- */
 .card-t-list {
